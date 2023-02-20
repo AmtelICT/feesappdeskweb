@@ -19,7 +19,7 @@ function App() {
             <Container>
               <Navbar.Brand>
                 <Link to={'/create-student'} className="nav-link">
-                  Almumin High Accounts
+                  Almumin High Accounts top
                 </Link>
               </Navbar.Brand>
               <Nav className="justify-content-end">
